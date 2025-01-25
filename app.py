@@ -238,8 +238,8 @@ def main():
     # Sidebar
     with st.sidebar:
         st.header("Repository Analysis")
-        owner = st.text_input("Repository Owner", value="mabhi02")
-        repo = st.text_input("Repository Name", value="ChatCHW")
+        owner = st.text_input("Repository Owner", value="kush134")
+        repo = st.text_input("Repository Name", value="3dRepo")
         
         if st.button("🔄 Toggle View", 
                     help="Switch between 3D visualization and chat view",
