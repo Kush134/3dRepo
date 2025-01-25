@@ -1,0 +1,17 @@
+[
+    {
+      "author": "John Doer",
+      "code": "// Sample code snippet",
+      "explanation": "This snippet demonstrates a basic function.",
+      "sha": "abc123def456",
+      "files edited": 10
+    },
+    {
+      "author": "Jane Smith",
+      "code": "// Another sample code snippet",
+      "explanation": "This snippet performs an API call.",
+      "sha": "xyz789ghi012",
+      "files edited": 5
+    }
+  ]
+  

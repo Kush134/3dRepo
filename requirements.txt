@@ -1,0 +1,16 @@
+streamlit
+requests
+python-dotenv
+snowflake-connector-python
+pandas
+trulens-core 
+trulens-providers-cortex 
+trulens-connectors-snowflake 
+snowflake-sqlalchemy
+trulens
+networkx
+aiohttp
+asyncio
+logging
+numpy
+nest-asyncio

@@ -1,0 +1,8 @@
+snowflake-connector-python
+python-dotenv
+pandas
+trulens-core 
+trulens-providers-cortex 
+trulens-connectors-snowflake 
+snowflake-sqlalchemy
+trulens 
